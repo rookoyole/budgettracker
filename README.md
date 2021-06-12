@@ -83,7 +83,7 @@ Features:
 
 Repository Link: [https://github.com/rookoyole/budgettracker](https://github.com/rookoyole/budgettracker)
 
-Heroku Link: [https://drive.google.com/file/d/1v5RggR_w5z3xWRdPfKpx6ERJlCLwpAwu/view](https://drive.google.com/file/d/1v5RggR_w5z3xWRdPfKpx6ERJlCLwpAwu/view)
+Heroku Link: [https://mysterious-anchorage-68969.herokuapp.com/](https://mysterious-anchorage-68969.herokuapp.com/)
 
 <!-- CONTACT -->
 ## Contact
@@ -104,4 +104,4 @@ Template from: https://github.com/othneildrew/Best-README-Template/blob/master/R
 [issues-url]: https://github.com/rookoyole/budgettracker/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/kyle-ryan-5b526023
-[product-screenshot]: assets/images/screenshot.png
+[product-screenshot]: public/assets/images/screenshot.png
