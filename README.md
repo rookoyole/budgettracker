@@ -70,13 +70,13 @@
 
 [![Product Name Screen Shot][product-screenshot]](public/assets/images/screenshot.png)
 <br />
-The purpose of this project was to create a NoSQL API backend for a social network, including a NoSQL database, users can share their thoughts, react to friends’ thoughts, and create a friends list.
+The purpose of this project was to update an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online.
 
 Features:
-* Express.js for routing
-* MongoDB database
-* Mongoose ODM
-* Native JavaScript Date object
+* IndexedDB allows for offline functionality when internet resumes
+* Web manifest to install the PWA as a standalone app
+* Mongoose validation
+* User will receive a notification that they have added an expense or deposit
 
 <!-- PROJECT LINKS -->
 ## Project Links
